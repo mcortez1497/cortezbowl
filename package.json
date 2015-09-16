@@ -1,0 +1,18 @@
+{
+  "name": "cortezbowl",
+  "version": "1.0.0",
+  "description": "Fantasy Football Blog",
+  "homepage": "https://github.com/mcortez1497/cortezbowl",
+  "author": "Michael Cortez <michael.e.cortez.ii@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcortez1497/cortezbowl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcortez1497/cortezbowl/issues"
+  }
+}
