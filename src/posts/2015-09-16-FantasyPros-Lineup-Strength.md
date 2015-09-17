@@ -10,14 +10,14 @@ collection: posts
 What do the lineup stengths look like going into Week 2!
 
 <div class="center">
-![Week 2 Lineup Strength](assets/week-2-lineup-strength.png)
+![Week 2 Lineup Strength](cortezbowl/assets/week-2-lineup-strength.png)
 </div>
 
 Analyzing the rosters heading into Week 2, the experts at [FantasyPros](http://www.fantasypros.com) have predicted the strongest players based on their real-life matchups. They have been ranked relative to the rest of the fantasy league at their positions. Let's breakdown the top of the list and see what the experts have predicted:
 
 <div class="center">
-  <img src="/assets/week-2-lineup-top-players.png" alt="Week 2 Top Team Players" width="430" />
-  <img src="/assets/week-2-lineup-top-chart.png" alt="Week 2 Top Team Chart" width="200" />
+  <img src="cortezbowl/assets/week-2-lineup-top-players.png" alt="Week 2 Top Team Players" width="430" />
+  <img src="cortezbowl/assets/week-2-lineup-top-chart.png" alt="Week 2 Top Team Chart" width="200" />
 </div>
 <div class="center">
   <span class="caption">Everyone's great except the kicker</span>
@@ -28,8 +28,8 @@ Multiple #1 options in multiple roster spots make the **BOBCATS** the strongest 
 Let's inspect the bottom of the list:
 
 <div class="center">
-  <img src="/assets/week-2-lineup-bottom-players.png" alt="Week 2 Bottom Team Players" width="430" />
-  <img src="/assets/week-2-lineup-bottom-chart.png" alt="Week 2 Bottom Team Chart" width="200" />
+  <img src="cortezbowl/assets/week-2-lineup-bottom-players.png" alt="Week 2 Bottom Team Players" width="430" />
+  <img src="cortezbowl/assets/week-2-lineup-bottom-chart.png" alt="Week 2 Bottom Team Chart" width="200" />
 </div>
 <div class="center">
   <span class="caption">Everyone's terrible except the kicker</span>

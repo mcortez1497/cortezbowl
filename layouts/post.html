@@ -18,13 +18,13 @@
   <header class="navbar navbar-default">
     <div class="container">
       <div class="navbar-header">
-        <a class="navbar-brand" href="/">CORTEZ BOWL</a>
+        <a class="navbar-brand" href="{{baseUri}}">CORTEZ BOWL</a>
       </div>
       <nav>
         <ul class="nav navbar-nav navbar-right">
           <li class="link">
             <a href="http://games.espn.go.com/ffl/leagueoffice?leagueId=569656&seasonId=2015">
-              <img src="assets/espn_ff_logo.png" width="20" />&nbsp;Go To League&nbsp;<i class="fa fa-arrow-right"></i>
+              <img src="{{baseUri}}assets/espn_ff_logo.png" width="20" />&nbsp;Go To League&nbsp;<i class="fa fa-arrow-right"></i>
             </a>
           </li>
         </ul>
@@ -32,7 +32,7 @@
     </div>
   </header>
 
-  <div class="banner" style="background-image: url('assets/{{image}}');">
+  <div class="banner" style="background-image: url('{{baseUri}}assets/{{image}}');">
     <div class="container" >
       <div class="row">
         <div class="col-lg-8">
