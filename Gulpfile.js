@@ -24,11 +24,11 @@ gulp.task('build', function (done) {
             reverse: true
           }
         }))
-        .use(layouts({
-          engine: 'handlebars'
-        }))
         .use(helpers({
           directory: 'src/_helpers'
+        }))
+        .use(layouts({
+          engine: 'handlebars'
         }))
         .build(done);
     },

@@ -1,0 +1,82 @@
+body {
+  font-size: 20px;
+  color: #404040;
+}
+
+.nav .link {
+  font-size: 16px;
+}
+
+.banner {
+  margin-top: -20px;
+  background: no-repeat top center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: 800;
+  display: block;
+  text-shadow: 2px 2px #585151;
+}
+
+.banner .post-text {
+  padding: 120px 0px;
+}
+
+.banner .home-text {
+  padding: 100px 0px;
+}
+
+.banner .home-text h1 {
+  margin: -10px 0px;
+}
+
+.post-preview h1 {
+  font-weight: 800;
+  color: inherit;
+}
+
+.post-preview h3 {
+  color: #666;
+}
+
+.post-preview p {
+  font-style: italic;
+  font-size: 14px;
+  color: #999;
+  text-align: right;
+}
+
+.post-preview>a {
+  color: #333;
+}
+
+.post-preview>a:hover {
+  color: #0085A1;
+  text-decoration: none;
+}
+
+.post p {
+  line-height: 1.5;
+  margin: 30px 0;
+}
+
+.post .center {
+  text-align: center;
+}
+
+.post .caption {
+  font-size: 16px;
+  color: #999;
+  font-style: italic;
+}
+
+.post .table {
+  text-align: center;
+}
+.post .table th,td {
+  text-align: center;
+}
