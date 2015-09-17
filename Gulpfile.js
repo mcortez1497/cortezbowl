@@ -1,17 +1,43 @@
 var gulp = require('gulp');
+var async = require('async');
 
-gulp.task('build', function () {
+gulp.task('build', function (done) {
   var metalsmith = require('metalsmith');
+  var path = require('metalsmith-path');
+  var helpers = require('metalsmith-register-helpers');
+  var markdown = require('metalsmith-markdown');
+  var permalinks = require('metalsmith-permalinks');
   var collections = require('metalsmith-collections');
   var layouts = require('metalsmith-layouts');
 
-  metalsmith(__dirname)
-  .use(layouts({
-    engine: 'handlebars'
-  }))
-  .build(function(err) {
-    if (err) throw err;
-  });
+  async.series({
+    metalsmith: function (done) {
+      metalsmith(__dirname)
+        .use(markdown())
+        .use(permalinks({
+          pattern: 'posts/:date/:title'
+        }))
+        .use(path())
+        .use(collections({
+          'posts': {
+            sortBy: 'date',
+            reverse: true
+          }
+        }))
+        .use(layouts({
+          engine: 'handlebars'
+        }))
+        .use(helpers({
+          directory: 'src/_helpers'
+        }))
+        .build(done);
+    },
+    assets: function(done) {
+      gulp.src('assets/**/*')
+        .pipe(gulp.dest('build/assets'))
+        .on('end', done);
+    }
+  }, done);
 });
 
 gulp.task('server', ['build'], function () {
