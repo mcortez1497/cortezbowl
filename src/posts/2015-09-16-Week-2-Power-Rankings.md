@@ -8,7 +8,7 @@ layout: post.html
 collection: posts
 ---
 
-Who's trending up and who's trending down? Let's take a look...
+Who's trending up and who's trending down? Let's check the Power Rankings this week and see who's crushing it!
 
 <table class="table table-bordered">
   <thead>
