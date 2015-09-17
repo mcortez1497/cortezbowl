@@ -11,12 +11,16 @@ gulp.task('build', function (done) {
   var markdown = require('metalsmith-markdown');
   var permalinks = require('metalsmith-permalinks');
   var collections = require('metalsmith-collections');
+  var templates = require('metalsmith-in-place');
   var layouts = require('metalsmith-layouts');
 
   async.series({
     metalsmith: function (done) {
       metalsmith(__dirname)
         .metadata({ baseUri: argv.baseUri })
+        .use(templates({
+          engine: 'handlebars'
+        }))
         .use(markdown())
         .use(permalinks({
           pattern: 'posts/:date/:title'
