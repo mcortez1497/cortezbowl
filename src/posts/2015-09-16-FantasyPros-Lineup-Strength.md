@@ -10,7 +10,7 @@ collection: posts
 What do the lineup stengths look like going into Week 2!
 
 <div class="center">
-![Week 2 Lineup Strength](/assets/week-2-lineup-strength.png)
+![Week 2 Lineup Strength](assets/week-2-lineup-strength.png)
 </div>
 
 Analyzing the rosters heading into Week 2, the experts at [FantasyPros](http://www.fantasypros.com) have predicted the strongest players based on their real-life matchups. They have been ranked relative to the rest of the fantasy league at their positions. Let's breakdown the top of the list and see what the experts have predicted:

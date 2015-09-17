@@ -27,7 +27,8 @@
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-path": "^0.1.0",
     "metalsmith-permalinks": "^0.4.0",
-    "metalsmith-register-helpers": "^0.1.2"
+    "metalsmith-register-helpers": "^0.1.2",
+    "yargs": "^3.25.0"
   },
   "dependencies": {
     "helper-moment": "^0.1.0"

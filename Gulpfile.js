@@ -1,5 +1,8 @@
 var gulp = require('gulp');
 var async = require('async');
+var argv = require('yargs')
+  .default('baseUri', '/')
+  .argv;
 
 gulp.task('build', function (done) {
   var metalsmith = require('metalsmith');
@@ -13,6 +16,7 @@ gulp.task('build', function (done) {
   async.series({
     metalsmith: function (done) {
       metalsmith(__dirname)
+        .metadata({ baseUri: argv.baseUri })
         .use(markdown())
         .use(permalinks({
           pattern: 'posts/:date/:title'
