@@ -2,7 +2,7 @@
 title: FantasyPros Lineup Strength
 subtitle: See what the experts at FantasyPros.com have to say about the league lineups heading into Week 2
 author: Michael Cortez
-date: 2015-09-17
+date: 2015-09-16
 image: matthew-berry.jpg
 layout: post.html
 collection: posts

@@ -2,7 +2,7 @@
 title: FantasyPros Lineup Strength
 subtitle: Using analytics from FantasyPros.com, let's breakdown the rosters and see who's on top
 author: Michael Cortez
-date: 2015-09-10
+date: 2015-09-09
 image: matthew-berry.jpg
 layout: post.html
 collection: posts

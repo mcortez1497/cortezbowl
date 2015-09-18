@@ -7,10 +7,10 @@ var argv = require('yargs')
 gulp.task('build', function (done) {
   var metalsmith = require('metalsmith');
   var path = require('metalsmith-path');
-  var helpers = require('metalsmith-register-helpers');
   var markdown = require('metalsmith-markdown');
   var permalinks = require('metalsmith-permalinks');
   var collections = require('metalsmith-collections');
+  var dateFormatter = require('metalsmith-date-formatter');
   var templates = require('metalsmith-in-place');
   var layouts = require('metalsmith-layouts');
 
@@ -32,8 +32,13 @@ gulp.task('build', function (done) {
             reverse: true
           }
         }))
-        .use(helpers({
-          directory: 'src/_helpers'
+        .use(dateFormatter({
+          dates: [
+            {
+              key: 'date',
+              format: 'MMMM Do YYYY'
+            }
+          ]
         }))
         .use(layouts({
           engine: 'handlebars'

@@ -2,7 +2,7 @@
 title: Cortez Comeback - Nowhere to Hyde
 subtitle: An incredible comeback happened this week. What player carried the weight of the Ankles?
 author: Michael Cortez
-date: 2015-09-18
+date: 2015-09-17
 image: hyde-flex.jpg
 layout: post.html
 collection: posts

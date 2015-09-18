@@ -2,7 +2,7 @@
 title: Week 2 Power Rankings
 subtitle: One week is in the books, where do the league teams stand after the initial showdown?
 author: Michael Cortez
-date: 2015-09-17
+date: 2015-09-16
 image: tom-brady.jpg
 layout: post.html
 collection: posts

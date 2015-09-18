@@ -2,7 +2,7 @@
 title: Week 1 Power Rankings
 subtitle: After the draft, how do the teams stack up against each other?
 author: Michael Cortez
-date: 2015-09-10
+date: 2015-09-09
 image: eddie-lacy-snow.jpg
 layout: post.html
 collection: posts
