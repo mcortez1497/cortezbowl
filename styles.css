@@ -23,7 +23,13 @@ body {
 }
 
 .banner .post-text {
-  padding: 120px 0px;
+  padding: 106px 0px;
+}
+
+.banner .post-subtext {
+  color: white;
+  font-style: italic;
+  text-shadow: 1px 1px #585151;
 }
 
 .banner .home-text {
