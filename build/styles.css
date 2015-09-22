@@ -3,10 +3,17 @@ body {
   color: #404040;
 }
 
+/* Navigation Styles */
 .nav .link {
   font-size: 16px;
 }
 
+.navbar-toggle {
+  padding: 0;
+  border: none;
+}
+
+/* Banner Styles */
 .banner {
   margin-top: -20px;
   background: no-repeat top center;
@@ -40,6 +47,7 @@ body {
   margin: -10px 0px;
 }
 
+/* Home Page Styles */
 .post-preview h1 {
   font-weight: 800;
   color: inherit;
@@ -65,6 +73,7 @@ body {
   text-decoration: none;
 }
 
+/* Post Page Styles */
 .post p {
   line-height: 1.5;
   margin: 30px 0;

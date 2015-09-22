@@ -18,17 +18,22 @@
   <header class="navbar navbar-default">
     <div class="container">
       <div class="navbar-header">
+          <a href="http://games.espn.go.com/ffl/leagueoffice?leagueId=569656&seasonId=2015" class="navbar-toggle collapsed">
+            <img src="http://mcortez1497.github.io/cortezbowl/assets/espn_ff_logo.png" width="20" />
+          </a>
         <a class="navbar-brand" href="http://mcortez1497.github.io/cortezbowl/">CORTEZ BOWL</a>
       </div>
-      <nav>
-        <ul class="nav navbar-nav navbar-right">
-          <li class="link">
-            <a href="http://games.espn.go.com/ffl/leagueoffice?leagueId=569656&seasonId=2015">
-              <img src="http://mcortez1497.github.io/cortezbowl/assets/espn_ff_logo.png" width="20" />&nbsp;Go To League&nbsp;<i class="fa fa-arrow-right"></i>
-            </a>
-          </li>
-        </ul>
-      </nav>
+      <div class="collapse navbar-collapse">
+        <nav>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="link">
+              <a href="http://games.espn.go.com/ffl/leagueoffice?leagueId=569656&seasonId=2015">
+                <img src="http://mcortez1497.github.io/cortezbowl/assets/espn_ff_logo.png" width="20" />&nbsp;Go To League&nbsp;<i class="fa fa-arrow-right"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
     </div>
   </header>
 
@@ -116,11 +121,20 @@
 </div>
 
         </div>
+        <div class="fb-comments" data-href="http://mcortez1497.github.io/cortezbowl/" data-width="750" data-numposts="3"></div>
       </div>
     </div>
   </div>
 
+  <div id="fb-root"></div>
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 </body>
 </html>
