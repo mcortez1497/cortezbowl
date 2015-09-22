@@ -33,15 +33,16 @@ gulp.task('build', function (done) {
           }
         }))
         .use(dateFormatter({
-          dates: [
-            {
-              key: 'date',
-              format: 'MMMM Do YYYY'
-            }
-          ]
+          dates: [{
+            key: 'date',
+            format: 'MMMM Do YYYY'
+          }]
         }))
         .use(layouts({
-          engine: 'handlebars'
+          engine: 'handlebars',
+          partials: {
+            'header': '../src/_partials/header',
+          }
         }))
         .build(done);
     },
