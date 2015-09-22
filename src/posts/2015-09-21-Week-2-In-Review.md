@@ -93,7 +93,7 @@ Well, old standby **Frank Gore** managed to fumble the ball... And lose it... on
 
 Another thriller, decided on Monday Night.
 
-On early Sunday, the matchup went back and forth as each team had some decent performances by the likes **Jamaal Charles**, **Cardinals DST**, **Julian Edelman**, and **Aaron Rodgers**. A huge break came for the **Twisted Ankles** as the Bengals/Bobcats starting RB **Jeremy Hill** caught a bad case of fumble-itis, fumbling twice before being put in the dig house, finishing the game with *-1pt*. This terrible illness paved the way for backup RB, and **Twisted Ankles** starter, **Giovani Bernard** to rush for a big game. He totaled 123 Yds for 13pts.
+On early Sunday, the matchup went back and forth as each team had some decent performances by the likes of **Jamaal Charles**, **Cardinals DST**, **Julian Edelman**, and **Aaron Rodgers**. A huge break came for the **Twisted Ankles** as the Bengals/Bobcats starting RB **Jeremy Hill** caught a bad case of fumble-itis, fumbling twice before being put in the dog house, finishing the game with *-1pt*. This terrible illness paved the way for backup RB, and **Twisted Ankles** starter, **Giovani Bernard** to rush for a big game. He totaled 123 YDs for 13pts.
 
 Prior to the Monday Night game, the **Texas State BOBCATS** held a *4pt* lead over the **Twisted Ankles**, who only had one player left to play - veteran wide receiver for the Jets, **Eric Decker**. And on the very first drive of the game, **Eric Decker** caught a touchdown pass to seal away the game for the **Twisted Ankles**, winning [94 - 83](http://games.espn.go.com/ffl/boxscorequick?leagueId=569656&teamId=1&scoringPeriodId=2&seasonId=2015&view=scoringperiod&version=quick).
 
