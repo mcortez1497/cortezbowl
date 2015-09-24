@@ -75,6 +75,6 @@ Two weeks down, and the league is in full motion.
   <span class="caption">Rankings based on lineup strength and current standings</span>
 </div>
 
-Other than the top seat remaining firm, a volatile week caused movement all over the Power Rankings. **Wreck Support** keeps crushing, and the other teams with 2-0 starts are rising to meat them. the **Austin Killer Kitties** move up 2 spots along with defending champs **Twisted Ankles**. **Pouncing Pandas** narrow loss moves the team out of the top 2. **I AM IRONMAN** drops *3* spots, after taking a brutal defeat *and* losing starting QB **Tony Romo**.
+Other than the top seat remaining firm, a volatile week caused movement all over the Power Rankings. **Wreck Support** keeps crushing, and the other teams with 2-0 starts are rising to meet them. The **Austin Killer Kitties** move up 2 spots along with defending champs **Twisted Ankles**. **Pouncing Pandas** narrow loss moves the team out of the top 2. **I AM IRONMAN** drops *3* spots, after taking a brutal defeat *and* losing starting QB **Tony Romo**.
 
 The other losing teams this week drop considerably, although the **Houston Heat's** Monday Night victory moves them up and out of the last spot! Let's see where the teams go from here in Week 3.

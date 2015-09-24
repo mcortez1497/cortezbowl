@@ -7,7 +7,7 @@ image: matthew-berry.jpg
 layout: post.html
 collection: posts
 ---
-For Week 3, we'll be looking at our **Game of the Week**, which is a battle between between last week's top scorer and one of the league's few remaining unbeatens. We'll check out the analytics from [FantasyPros](http://www.fantasypros.com) to breakdown the matchup and predict who comes out on top! Without further ado... 
+For Week 3, we'll be looking at our **Game of the Week**, which is a battle between last week's top scorer and one of the league's few remaining unbeatens. We'll check out the analytics from [FantasyPros](http://www.fantasypros.com) to breakdown the matchup and predict who comes out on top! Without further ado... 
 
 <div class="center">
   <h3>(1-1) Cortez the Killers v. (2-0) Austin Killer Kitties</h3>
