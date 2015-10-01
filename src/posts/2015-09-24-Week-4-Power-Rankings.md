@@ -25,47 +25,47 @@ Big games in Week 3 have shuffled the teams around, here's where they stand in t
     <td>(3-0) Wreck Support</td>
   </tr>
   <tr class="success">
-    <td>4</td>
+    <td>2</td>
     <td>+2</td>
     <td>(3-0) Twisted Ankles</td>
   </tr>
   <tr class="success">
-    <td>5</td>
+    <td>3</td>
     <td>+2</td>
     <td>(2-1) Cortez the Killers</td>
   </tr>
   <tr class="danger">
-    <td>3</td>
+    <td>4</td>
     <td>-1</td>
     <td>(1-2) Pouncing Pandas</td>
   </tr>
   <tr class="danger">
-    <td>2</td>
+    <td>5</td>
     <td>-3</td>
     <td>(2-1) Austin Killer Kitties</td>
   </tr>
   <tr class="success">
-    <td>8</td>
+    <td>6</td>
     <td>+2</td>
     <td>(2-1) Houston Heat</td>
   </tr>
   <tr class="success">
-    <td>10</td>
+    <td>7</td>
     <td>+3</td>
     <td>(1-2) Who Dat Mama</td>
   </tr>
   <tr class="danger">
-    <td>6</td>
+    <td>8</td>
     <td>-2</td>
     <td>(1-2) I AM IRONMAN</td>
   </tr>
   <tr class="danger">
-    <td>7</td>
+    <td>9</td>
     <td>-2</td>
     <td>(0-3) Texas State BOBCATS</td>
   </tr>
   <tr class="danger">
-    <td>9</td>
+    <td>10</td>
     <td>-1</td>
     <td>(0-3) Team Ducky</td>
   </tr>
